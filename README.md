@@ -1,3 +1,3 @@
-Basic Person-Page using react+vite and tailwind css for styling.
+Basic Personal-Page using react+vite and tailwind css for styling.
 
 Not a completed page. More to be added...
